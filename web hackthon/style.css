@@ -1,0 +1,30 @@
+.het{
+    text-align: center;
+    color: rgb(29, 29, 34);
+    margin: 15px;
+    border-radius: 50px;
+    background:linear-gradient(to bottom,rgb(49, 48, 48) ,rgb(90, 208, 112));
+    
+    
+    
+}
+body{
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5px ;
+    background: radial-gradient(rgb(23, 164, 206),rgb(198, 17, 17));
+}
+
+.card{
+    margin-bottom: 8px;
+    background: linear-gradient(to bottom right,rgb(171, 166, 166),rgb(14, 51, 24));
+    color: black;
+    border-radius: 20px;
+}
+
+.list-group-item{
+    background: radial-gradient(rgb(241, 255, 190) ,rgb(37, 37, 36)) ;
+    
+}
+div{
+    margin: auto auto;
+}
